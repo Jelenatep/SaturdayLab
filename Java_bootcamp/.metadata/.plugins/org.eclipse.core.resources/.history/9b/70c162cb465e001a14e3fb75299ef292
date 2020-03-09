@@ -1,0 +1,42 @@
+import java.util.*;
+public class Main {
+
+	public static void main(String[] args) {
+	//System.out.println("Hi!");
+	
+	int firstNumber = 37;
+	int secondNumber = 194;
+	int result;
+	
+//	int firstNumber, secondNumber, result;
+//	firstNumber = 37;
+//	secondNumber = 194;
+	
+	
+	result = firstNumber + secondNumber;
+	//System.out.println("Rusult: " + result);
+	
+	double doubleNumber = 22.5;
+	double doubleTwo = 12.8;
+	double doubleResult;
+	
+	doubleResult = doubleNumber + doubleTwo + 5.5;
+	//System.out.println("doubleResult: " + doubleResult);
+	
+	byte byteNumber = 28;
+	short byteTwo = 128;
+	
+	String res = "Result ";
+	result = firstNumber +  (int) doubleTwo;
+	//System.out.println(res + result);
+	
+	int a = 77;
+	Scanner sc = new Scanner(System.in);
+	System.out.println("Please enter first number ");
+	int aa = sc.nextInt();
+	System.out.println("Please enter second number ");
+	int bb = sc.nextInt();
+	System.out.println(res + (aa + bb ));
+	}
+
+}

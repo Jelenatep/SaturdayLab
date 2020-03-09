@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/student/Java_bootcamp/.metadata/.plugins/org.eclipse.jdt.core
+2077968435.index
+691806382.index
+3934471789.index

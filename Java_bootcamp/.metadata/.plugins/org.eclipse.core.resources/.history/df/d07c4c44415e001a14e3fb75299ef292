@@ -1,0 +1,27 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+	System.out.println("Hi!");
+	
+	int firstNumber = 37;
+	int secondNumber = 194;
+	int result;
+	
+//	int firstNumber, secondNumber, result;
+//	firstNumber = 37;
+//	secondNumber = 194;
+	
+	
+	result = firstNumber + secodNumber;
+	System.out.println("Rusult: " + result);
+	
+	double doubleNumber = 22.5;
+	double doubleTwo = 12.8;
+	double doubleResult;
+	
+	doubleResult = doubleNumber + doubleTwo + 5.5;
+	System.out.println("doubleResult: " + doubleResult);
+	}
+
+}
